@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Neurolock",
+    "language": "JavaScript",
+    "status": "In Development",
+    "tags": ["AI", "Password Manager", "Node.js"],
+    "path": "C:/Users/Jake/Projects/Neurolock"
+  },
+  {
+    "name": "VibeX",
+    "language": "TypeScript",
+    "status": "Completed",
+    "tags": ["Discord Bot", "Music", "Open Source"],
+    "path": "C:/Users/Jake/Projects/VibeX"
+  },
+  {
+    "name": "BotForge",
+    "language": "Python",
+    "status": "Planning",
+    "tags": ["AI", "Discord", "Automation"],
+    "path": "C:/Users/Jake/Projects/BotForge"
+  },
+  {
+    "name": "StetupSuite",
+    "language": "C#",
+    "status": "In Development",
+    "tags": ["Office Suite", "Desktop App"],
+    "path": "C:/Users/Jake/Projects/StetupSuite"
+  }
+]
