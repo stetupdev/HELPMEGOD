@@ -1,0 +1,16 @@
+// package.json
+{
+  "name": "dev-assistant",
+  "version": "1.0.0",
+  "description": "Dark Mode Desktop Dev Project Manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^30.0.0",
+    "open": "^10.0.0",
+    "dotenv": "^16.4.5",
+    "uuid": "^9.0.1"
+  }
+}
